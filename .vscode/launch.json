@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "looping",
+            "request": "launch",
+            "mainClass": "looping",
+            "projectName": "PDQ1_3df64dac"
+        },
+        {
+            "type": "java",
+            "name": "Inimaret",
+            "request": "launch",
+            "mainClass": "Inimaret",
+            "projectName": "PDQ1_3df64dac"
+        },
+        {
+            "type": "java",
             "name": "HitungIPS",
             "request": "launch",
             "mainClass": "HitungIPS",
